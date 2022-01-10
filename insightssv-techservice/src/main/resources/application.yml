@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: InsightsSvService
+server:
+  port: 8001
